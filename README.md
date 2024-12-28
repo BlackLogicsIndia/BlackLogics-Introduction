@@ -24,4 +24,4 @@ To get started with BlackLogics, follow the steps below to clone the repository 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BlackLogics India/BlackLogics.git
+   git clone https://github.com/BlackLogicsIndia/BlackLogics.git
